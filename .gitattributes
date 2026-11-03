@@ -1,0 +1,6 @@
+# Keep text files LF everywhere; treat images as binary
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary

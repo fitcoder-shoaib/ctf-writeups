@@ -1,0 +1,7 @@
+# Unredacted screenshots and rough drafts — never publish
+_raw/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
