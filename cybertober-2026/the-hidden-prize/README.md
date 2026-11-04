@@ -41,11 +41,19 @@ Checking the image's metadata confirms the hint: there is no EXIF or XMP data, n
 
 The clock is a **Titan** wall clock. It's tempting to go and search for the price of this model online, but the challenge says the answer is in the picture.
 
-Everyone looks at a clock to read the time and nobody looks at the numbers themselves. At the bottom of the dial, **5, 6 and 7** sit next to each other. They're three digits in a row, which matches `₹XXX`:
+Everyone looks at the clock, so the trick is to look *around* it. Zooming into the top-right of the photo, just above the clock, there's a dark wall behind the white pillar:
 
-![5, 6 and 7 at the bottom of the dial](images/567_zoom.jpg)
+![Zooming in above the clock](images/zoom_1_above_clock.png)
 
-So the "price" is **₹567**.
+Zooming further into that corner, there's something tiny written on the wall, right under the ceiling shadow:
+
+![The wall corner, with tiny text near the top](images/zoom_2_wall_corner.png)
+
+Zooming in all the way, it reads **₹567**:
+
+![₹567 written on the wall](images/zoom_3_567.png)
+
+It's three digits with a rupee sign, which matches the `₹XXX` format exactly. So the "price" is **₹567**.
 
 ### 4. Build the flag
 
@@ -59,4 +67,5 @@ CYBTBR{₹567}
 
 - Read the hints literally. *"Not in the settings"* meant "skip the metadata", and *"what others overlook"* meant the answer is in plain sight.
 - The flag format can help. `₹XXX` said exactly three digits, which narrowed things down a lot.
-- Don't overthink it. Searching for the clock's real price online was a rabbit hole. The answer was printed on the clock face.
+- Don't overthink it. Searching for the clock's real price online was a rabbit hole. The answer was hidden in the photo itself.
+- Look away from the main subject. The clock grabs your attention, but the price was written in tiny text on the wall behind it. Zoom into every corner.
