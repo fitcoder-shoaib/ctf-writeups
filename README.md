@@ -14,6 +14,7 @@ My writeups for CTF challenges I've solved, one folder for each event.
 | CYBTBR (Cybertober) CTF 2026 | [The Count's Forgotten Blog](cybertober-2026/the-counts-forgotten-blog/) | OSINT / Web / Geolocation | — |
 | CYBTBR (Cybertober) CTF 2026 | [The Forgotten Crossing](cybertober-2026/the-forgotten-crossing/) | OSINT / Geolocation | — |
 | CYBTBR (Cybertober) CTF 2026 | [The Haunting Coordinates](cybertober-2026/the-haunting-coordinates/) | OSINT | — |
+| CYBTBR (Cybertober) CTF 2026 | [The Hidden Gym Code](cybertober-2026/the-hidden-gym-code/) | OSINT / Geolocation | Hard |
 | CYBTBR (Cybertober) CTF 2026 | [The Hidden Prize](cybertober-2026/the-hidden-prize/) | OSINT / Image Analysis | — |
 | CYBTBR (Cybertober) CTF 2026 | [The Hotel's Forgotten Secret](cybertober-2026/the-hotels-forgotten-secret/) | OSINT / Web Archive | — |
 | CYBTBR (Cybertober) CTF 2026 | [The Last Transmission](cybertober-2026/the-last-transmission/) | OSINT / Audio / Social Media | — |
